@@ -1,2 +1,2 @@
 # Operating-System
-Operating system course by codehelp-by babbar(youtube channel)
+Operating system course by CodeHelp-by Babbar(youtube channel)
